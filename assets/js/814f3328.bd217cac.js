@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbyconity=self.webpackChunkbyconity||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"template","permalink":"/blog/template"},{"title":"Detailed Explanation of ByConity ELT Principles","permalink":"/blog/byconity-elt"}]}')}}]);
