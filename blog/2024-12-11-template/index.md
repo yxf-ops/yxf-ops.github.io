@@ -43,7 +43,7 @@ sszx24@zhejianglab.org
 ## 下载模板到该文件夹中
 仓库(lab-zhejiang.github.io) --> blog --> 2024-12-11-template --> index.md --> 下载
 ```
-[](./下载模板示例.png)
+![](./下载模板示例.png)
 [](https://github.com/yxf-ops/yxf-ops.github.io/blob/main/blog/2024-12-11-template/%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E7%A4%BA%E4%BE%8B.png)
 
 ```bash
@@ -63,7 +63,7 @@ keywords: ["Test"] # 定文档或博客文章的元数据关键词，关键词�
 仓库(lab-zhejiang.github.io) --> blog --> Add file --> Upload files --> Create a new branch for this commit and start a pull request. --> Propose changes
 ```
 
-[](./上传文件示例.png)
+![](./上传文件示例.png)
 
 ## 通知管理员审批上传文件的请求
 
