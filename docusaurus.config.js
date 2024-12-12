@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ZheJianglab',
+  title: 'Zhejiang Lab',
   tagline: '云原生大数据分析引擎',
   favicon: 'img/favicon.ico',
 
