@@ -44,7 +44,6 @@ sszx24@zhejianglab.org
 仓库(lab-zhejiang.github.io) --> blog --> 2024-12-11-template --> index.md --> 下载
 ```
 ![](./下载模板示例.png)
-[](https://github.com/yxf-ops/yxf-ops.github.io/blob/main/blog/2024-12-11-template/%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E7%A4%BA%E4%BE%8B.png)
 
 ```bash
 ## 编辑下载的文件
