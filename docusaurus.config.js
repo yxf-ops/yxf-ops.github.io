@@ -106,7 +106,7 @@ const config = {
         title: 'Zhejiang Lab',
         hideOnScroll: true,
         logo: {
-          alt: 'ByConity Logo',
+          alt: 'Zhejiang Lab Logo',
           src: 'img/logo.png',
         },
         items: [
