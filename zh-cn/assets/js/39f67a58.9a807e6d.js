@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbyconity=self.webpackChunkbyconity||[]).push([[9284],{49688:a=>{a.exports=JSON.parse('{"label":"tag1","permalink":"/zh-cn/blog/tags/tag-1","allTagsPath":"/zh-cn/blog/tags","count":1}')}}]);
