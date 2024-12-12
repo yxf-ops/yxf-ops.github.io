@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://byconity.github.io/zh-cn/blog</id>
-    <title>Zhejiang Lab Blog</title>
+    <title>Lab Blog</title>
     <updated>2024-12-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://byconity.github.io/zh-cn/blog"/>
-    <subtitle>Zhejiang Lab Blog</subtitle>
+    <subtitle>Lab Blog</subtitle>
     <icon>https://byconity.github.io/zh-cn/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[template]]></title>
