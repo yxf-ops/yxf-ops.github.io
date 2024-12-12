@@ -43,8 +43,7 @@ sszx24@zhejianglab.org
 ## 下载模板到该文件夹中
 仓库(lab-zhejiang.github.io) --> blog --> 2024-12-11-template --> index.md --> 下载
 ```
-
-<img src="./下载模板示例.png" alt="下载模板示例" style="zoom: 25%;" />
+[](./下载模板示例.png)
 
 ```bash
 ## 编辑下载的文件
@@ -63,7 +62,7 @@ keywords: ["Test"] # 定文档或博客文章的元数据关键词，关键词�
 仓库(lab-zhejiang.github.io) --> blog --> Add file --> Upload files --> Create a new branch for this commit and start a pull request. --> Propose changes
 ```
 
-<img src="./上传文件示例.png" alt="下载模板示例" style="zoom:50%;" />
+[](./上传文件示例.png)
 
 ## 通知管理员审批上传文件的请求
 
