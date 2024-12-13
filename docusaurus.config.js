@@ -103,7 +103,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/byconity-social-card.png',
       navbar: {
-        title: 'Lab'
+        title: 'Lab',
         items: [
           {
             type: 'doc',
