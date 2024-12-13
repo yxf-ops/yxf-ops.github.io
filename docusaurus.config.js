@@ -104,7 +104,7 @@ const config = {
       image: 'img/byconity-social-card.png',
       navbar: {
         title: 'Lab',
-        hideOnScroll: true
+        hideOnScroll: true,
         logo: {
           alt: 'Zhejiang Lab Logo',
           src: 'img/logo.png',
