@@ -134,7 +134,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/ByConity/ByConity',   
+            href: 'https://github.com/yxf-ops/yxf-ops.github.io',   
             position: 'right',                              
             // These allows adding Github icon using custom styles
             html: '<span>GitHub</span>',                    
