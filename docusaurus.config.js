@@ -104,7 +104,6 @@ const config = {
       image: 'img/byconity-social-card.png',
       navbar: {
         title: 'Lab'
-        },
         items: [
           {
             type: 'doc',
