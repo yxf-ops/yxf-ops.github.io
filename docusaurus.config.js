@@ -103,11 +103,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/byconity-social-card.png',
       navbar: {
-        title: 'Lab',
-        hideOnScroll: true,
-        logo: {
-          alt: 'Zhejiang Lab Logo',
-          src: 'img/logo.png',
+        title: 'Lab'
         },
         items: [
           {
