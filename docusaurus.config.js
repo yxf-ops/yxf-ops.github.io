@@ -133,6 +133,13 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
+          {
+            href: 'https://github.com/ByConity/ByConity',   
+            position: 'right',                              
+            // These allows adding Github icon using custom styles
+            html: '<span>GitHub</span>',                    
+            className: 'header-github-link',                
+          },
         ],
       },
       footer: {
