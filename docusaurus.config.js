@@ -171,7 +171,7 @@ const config = {
               },
               {
                 label: 'Bilibili',
-                href: 'https://space.bilibili.com/2065226922?spm_id_from=333.1007.0.0',
+                href: 'https://space.bilibili.com/358999379?spm_id_from=333.999.0.0',
               },
               // {
               //   label: "Twitter",
