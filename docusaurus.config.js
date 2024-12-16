@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'byconity', // Usually your GitHub org/user name.
-  projectName: 'byconity.github.io', // Usually your repo name.
+  organizationName: 'yxf-ops', // Usually your GitHub org/user name.
+  projectName: 'yxf-ops.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
