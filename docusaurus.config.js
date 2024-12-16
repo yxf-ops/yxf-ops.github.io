@@ -44,7 +44,7 @@ const config = {
         path: 'community',
         routeBasePath: 'community',
         sidebarPath: require.resolve('./sidebarsCommunity.js'),
-        editUrl: 'https://github.com/ByConity/byconity.github.io/tree/main',
+        editUrl: 'https://github.com/yxf-ops/yxf-ops.github.io/tree/main',
         editLocalizedFiles: true,
       }),
     ],
