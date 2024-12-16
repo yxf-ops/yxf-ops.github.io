@@ -145,7 +145,7 @@ const config = {
       footer: {
         style: 'dark',
         logo: {
-          alt: 'ByConity',
+          alt: 'ZheJiang Lab',
           src: 'img/footer-logo.svg',
         },
         links: [
