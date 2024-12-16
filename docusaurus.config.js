@@ -169,10 +169,10 @@ const config = {
                 label: 'Users',
                 href: '/users',
               },
-              {
-                label: 'Bilibili',
-                href: 'https://space.bilibili.com/358999379?spm_id_from=333.999.0.0',
-              },
+              // {
+              //   label: 'Bilibili',
+              //   href: 'https://space.bilibili.com/358999379?spm_id_from=333.999.0.0',
+              // },
               // {
               //   label: "Twitter",
               //   href: "",
