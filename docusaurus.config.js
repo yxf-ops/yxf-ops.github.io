@@ -84,7 +84,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/ByConity/byconity.github.io/tree/main',
+          editUrl: 'https://github.com/yxf-ops/yxf-ops.github.io/tree/main',
           editLocalizedFiles: true,
         },
         theme: {
