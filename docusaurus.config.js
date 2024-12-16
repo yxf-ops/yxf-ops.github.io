@@ -62,6 +62,10 @@ const config = {
             from: ['/community'],
             to: '/community/become-maintainer',
           },
+          {
+            from: ['/users'],
+            to: '/community/become-maintainer',
+          },
         ],
       }),
     ],
