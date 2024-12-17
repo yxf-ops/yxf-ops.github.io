@@ -19,9 +19,7 @@ export default function FooterLayout({
           {logo && <div className="col col--3">{logo}</div>}
           <div className="col">{links}</div>
         </div>
-        {copyright && (
-          <div className="footer__bottom text--center">{copyright}</div>
-        )}
+        {/* 不再显示版权信息 */}
       </div>
     </footer>
   );
