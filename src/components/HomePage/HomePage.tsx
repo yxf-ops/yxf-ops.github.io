@@ -17,7 +17,7 @@ function HomePage() {
   }, []);
 
   return (
-    <Layout title={title}>
+      <Layout title="zhejiang lab"> {/* 直接写入固定标题 */}
       <HeroBannerSection />
       <IntroductionSection />
       <KeyFeaturesSection />
