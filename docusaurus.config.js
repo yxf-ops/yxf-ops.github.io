@@ -201,6 +201,7 @@ const config = {
             ],
           },
         ],
+        copyright: `Copyright © ${new Date().getFullYear()} ByteDance.`,
       },
       prism: {
         theme: lightCodeTheme,
