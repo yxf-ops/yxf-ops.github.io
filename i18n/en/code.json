@@ -298,7 +298,7 @@
     "message": "What is ByConity?"
   },
   "homePage.introductionSection.description": {
-    "message": "ByConity is a distributed cloud-native SQL data warehouse engine, that excels in interactive queries and Ad-Hoc queries, featuring support for querying multiple tables, cluster expansion without sensation, and unified aggregation of offline batch data and real-time data streams."
+    "message": "The platform is an innovative platform specifically for the AI ​​2.0 era. It provides efficient intelligent computing center management and operation tools for intelligent computing center managers, and provides a complete development tool chain for large model developers and application ISVs downwards. End-to-end AI applications are provided to end customers."
   },
   "homePage.keyFeaturesSection.feature1.title": {
     "message": "High Performance, Low Cost"
