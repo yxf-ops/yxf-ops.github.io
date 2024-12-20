@@ -56,6 +56,13 @@ function KeyFeaturesSection() {
             <Translate id="homePage.keyFeaturesSection.feature3.description" />
           }
         />
+        <FeatureCard                                     
+          title={<Translate id="homePage.keyFeaturesSection.feature3.title" />}
+          icon={<FaceIcon />}
+          description={
+            <Translate id="homePage.keyFeaturesSection.feature3.description" />
+          }
+        />
       </div>
     </div>
   );
