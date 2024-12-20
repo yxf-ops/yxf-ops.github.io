@@ -298,7 +298,7 @@
     "message": "ByConity是什么？"
   },
   "homePage.introductionSection.description": {
-    "message": "ByConity 是分布式的云原生SQL数仓引擎，擅长交互式查询和即席查询，具有支持多表关联复杂查询、集群扩容无感、离线批数据和实时数据流统一汇总等特点。"
+    "message": "平台是一款专门面向AI2.0时代的创新平台，向上衔接智算中心管理者提供高效的智算中心管理和运营工具，向下为大模型开发者、应用ISV提供完整的开发工具链，为终端客户提供端到端AI应用。"
   },
   "homePage.keyFeaturesSection.feature1.title": {
     "message": "高性能低成本"
