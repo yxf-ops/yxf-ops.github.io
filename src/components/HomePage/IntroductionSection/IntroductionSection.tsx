@@ -1,6 +1,6 @@
 import React from 'react';
 import Translate from '@docusaurus/Translate';
-import ArchitectureImage from './architecture.svg';
+import ArchitectureImage from './architecture.png';
 import styles from './IntroductionSection.module.scss';
 
 function IntroductionSection() {
