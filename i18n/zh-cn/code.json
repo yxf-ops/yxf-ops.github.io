@@ -318,6 +318,18 @@
   "homePage.keyFeaturesSection.feature3.description": {
     "message": "提供模型开发、训练、部署、评测多类型服务，同时提供镜像、数据集、模型等资产管理能力"
   },
+    "homePage.keyFeaturesSection.feature4.title": {
+    "message": "计算服务"
+  },
+    "homePage.keyFeaturesSection.feature4.description": {
+    "message": "基于阿里云飞天平台，提供多种形态基础云产品服务，包含裸金属、容器实例、ACK集群等，实现稳定可靠计算服务"
+  },
+      "homePage.keyFeaturesSection.feature5.title": {
+    "message": "存储服务"
+  },
+    "homePage.keyFeaturesSection.feature5.description": {
+    "message": "提供安全稳定、更优化、无缝上云的智能数据存储服务，提供多层次存储，缓存与数据传输能力"
+  },
   "homePage.keyFeaturesSection.title": {
     "message": "平台服务内容"
   },
