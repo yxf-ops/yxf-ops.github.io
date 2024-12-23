@@ -57,10 +57,17 @@ function KeyFeaturesSection() {
           }
         />
         <FeatureCard                                     
-          title={<Translate id="homePage.keyFeaturesSection.feature3.title" />}
+          title={<Translate id="homePage.keyFeaturesSection.feature4.title" />}
           icon={<FaceIcon />}
           description={
-            <Translate id="homePage.keyFeaturesSection.feature3.description" />
+            <Translate id="homePage.keyFeaturesSection.feature4.description" />
+          }
+        />
+        <FeatureCard                                     
+          title={<Translate id="homePage.keyFeaturesSection.feature5.title" />}
+          icon={<FaceIcon />}
+          description={
+            <Translate id="homePage.keyFeaturesSection.feature5.description" />
           }
         />
       </div>
