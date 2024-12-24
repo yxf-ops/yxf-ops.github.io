@@ -17,12 +17,12 @@ function HomePage() {
   }, []);
 
   return (
+      <GetStartedSection />
       <Layout title={title}>
       <HeroBannerSection />
       <IntroductionSection />
       <KeyFeaturesSection />
       <CommunitySection />
-      <GetStartedSection />
     </Layout>
   );
 }
