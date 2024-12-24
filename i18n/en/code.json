@@ -301,28 +301,40 @@
     "message": "The platform is an innovative platform specifically for the AI ​​2.0 era. It provides efficient intelligent computing center management and operation tools for intelligent computing center managers, and provides a complete development tool chain for large model developers and application ISVs downwards. End-to-end AI applications are provided to end customers."
   },
   "homePage.keyFeaturesSection.feature1.title": {
-    "message": "High Performance, Low Cost"
+    "message": "ecological services"
   },
   "homePage.keyFeaturesSection.feature1.description": {
-    "message": "Support sub-second query response capability under massive data scale through vectorized execution engine, columnar storage and CBO+RBO optimizer. At the same time, the ultra-high compression ratio helps users save a lot of storage space and reduce disk costs."
+    "message": "Basic services based on computing power, data, models, and AI training incubate intelligent computing SAAS solutions to create a high-quality open innovation ecosystem and provide leading demonstrations and basic support for national and regional innovation capacity building."
   },
   "homePage.keyFeaturesSection.feature2.title": {
-    "message": "Unified Support for Multiple Scenarios"
+    "message": "model service"
   },
   "homePage.keyFeaturesSection.feature2.description": {
-    "message": "Supports real-time data streaming and offline batch data writing with interactive things capability and multi-table associative query capability, which can meet the interactive query needs of online systems as well as backend real-time monitoring, report big screen, etc."
+    "message": "Provide large model model deployment inference and fine-tuning service capabilities, supporting evaluation and debugging auxiliary tools, accelerating the conversion of computing power into productivity"
   },
   "homePage.keyFeaturesSection.feature3.title": {
-    "message": "Eco-friendly"
+    "message": "training services"
   },
   "homePage.keyFeaturesSection.feature3.description": {
-    "message": "Compatible with most ClickHouse interfaces and tools, supports Kafka, Spark, Flink and many other data imports, also supports Superset, Tableau and other data visualization tools."
+    "message": "Provides multiple types of services such as model development, training, deployment, and evaluation, as well as asset management capabilities such as images, data sets, and models."
+  },
+  "homePage.keyFeaturesSection.feature4.title": {
+    "message": "Computing services"
+  },
+  "homePage.keyFeaturesSection.feature4.description": {
+    "message": "Based on the Alibaba Cloud Feitian platform, it provides a variety of basic cloud product services, including bare metal, container instances, ACK clusters, etc., to achieve stable and reliable computing services."
+  },
+  "homePage.keyFeaturesSection.feature5.title": {
+    "message": "Storage service"
+  },
+  "homePage.keyFeaturesSection.feature5.description": {
+    "message": "Provide secure, stable, optimized and seamless cloud-based intelligent data storage services, providing multi-level storage, caching and data transmission capabilities."
   },
   "homePage.keyFeaturesSection.title": {
-    "message": "Key Features"
+    "message": "Platform service content"
   },
   "tagline": {
-    "message": "Cloud native big data analysis engine"
+    "message": "ZheJianglab"
   },
   "homePage.communitySection.github.title": {
     "message": "Github"
