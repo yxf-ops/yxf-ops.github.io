@@ -17,8 +17,8 @@ function HomePage() {
   }, []);
 
   return (
-      <GetStartedSection />
       <Layout title={title}>
+      <GetStartedSection />
       <HeroBannerSection />
       <IntroductionSection />
       <KeyFeaturesSection />
