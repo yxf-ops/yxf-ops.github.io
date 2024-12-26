@@ -53,12 +53,12 @@
 
 .navbar__item {
   font-size: 18px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 .navbar__brand {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .navbar__brand + .navbar__item {
