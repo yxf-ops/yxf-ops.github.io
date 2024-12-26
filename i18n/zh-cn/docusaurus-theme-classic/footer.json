@@ -23,10 +23,7 @@
     "message": "GitHub",
     "description": "The label of footer link with label=GitHub linking to https://github.com/ByConity/ByConity"
   },
-  "copyright": {
-    "message": "Copyright © 2023 ByteDance.",
-    "description": "The footer copyright"
-  },
+  
   "link.item.label.Community": {
     "message": "Community",
     "description": "The label of footer link with label=Community linking to /community"
