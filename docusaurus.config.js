@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '国家新一代人工智能公共算力开放创新平台', 
+  title: '国家人工智能公共算力开放创新平台', 
   tagline: '之江实验室',  
   favicon: 'img/favicon.ico',
 
