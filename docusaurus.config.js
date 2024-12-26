@@ -105,10 +105,10 @@ const config = {
       navbar: {
         title: 'Lab',
         hideOnScroll: true,
-        // logo: {
-        //   alt: 'Zhejiang Lab Logo',
-        //   src: 'img/logo.png',
-        // },
+         logo: {
+           alt: 'Zhejiang Lab Logo',
+           src: 'img/logo.png',
+         },
         items: [
           {
             type: 'doc',
@@ -144,10 +144,10 @@ const config = {
       },
       footer: {
         style: 'dark',
-        logo: {
-          alt: 'ZheJiang Lab',
-          src: 'img/footer-logo.svg',
-        },
+        // logo: {
+        //   alt: 'ZheJiang Lab',
+        //   src: 'img/footer-logo.svg',
+        // },
         links: [
           {
             title: 'Docs',
