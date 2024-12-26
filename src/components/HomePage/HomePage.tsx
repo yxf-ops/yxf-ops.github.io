@@ -18,11 +18,11 @@ function HomePage() {
 
   return (
       <Layout title={title}>
-      <GetStartedSection />
       <HeroBannerSection />
       <IntroductionSection />
       <KeyFeaturesSection />
       <CommunitySection />
+      <GetStartedSection />
     </Layout>
   );
 }
