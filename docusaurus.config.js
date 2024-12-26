@@ -201,7 +201,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 之江实验室.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ZheJiangLab.`,
       },
       prism: {
         theme: lightCodeTheme,
