@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yxf-ops.github.io/zh-cn/blog</id>
-    <title>国家新一代人工智能公共算力开放创新平台 Blog</title>
+    <title>国家人工智能公共算力开放创新平台 Blog</title>
     <updated>2024-12-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yxf-ops.github.io/zh-cn/blog"/>
-    <subtitle>国家新一代人工智能公共算力开放创新平台 Blog</subtitle>
+    <subtitle>国家人工智能公共算力开放创新平台 Blog</subtitle>
     <icon>https://yxf-ops.github.io/zh-cn/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[template]]></title>
