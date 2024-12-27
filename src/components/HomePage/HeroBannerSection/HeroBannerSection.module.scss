@@ -1,5 +1,7 @@
 .container {
   background-color: #f5f9fb;
+  background: -webkit-linear-gradient(88deg, #6c9226,#739665,#8e958f);/* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(88deg, #6c9226,#739665,#8e958f);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                           
 }
 
 .content {
