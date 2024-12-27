@@ -42,6 +42,7 @@
   /* border: 1px solid #d9d9d9; */
   background-color: #2c3e50; /* 导航栏背景颜色，这里设置为深蓝色 */
   color: #ecf0f1; /* 默认字体颜色，这里设置为浅灰色 */
+  font-weight: bold;
 }
 
 .navbar.navbar--no-border {
